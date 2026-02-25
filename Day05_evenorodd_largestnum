@@ -1,0 +1,21 @@
+#even or odd number
+n=int(input ("enter a number:" ))
+if(n/2==0):
+    print(n,"is a even number")
+else:
+    print(n, "is a odd number")
+
+#find the largest number
+a=int(input("enter 1st number: "))
+b=int(input("enter 2nd number: "))
+c=int(input("enter 3rd number: "))
+if(a>b and a>c):
+    print(a,"is largest number")
+elif(b>c and b>a):
+    print(b,"is largest number")
+else:
+    print(c,"is largest number")
+
+#or
+result=max(a,b,c)
+print(result)
