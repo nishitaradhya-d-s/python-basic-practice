@@ -19,6 +19,8 @@ I am building strong fundamentals step by step by practicing:
 - Day 02 – Input and String Concatenation
 - Day 03 – String Methods and Operations
 - Day 04 – Basic Mathematical Programs
+- Day 05 - evenorodd and largestnum
+- Day 06 - conditional statement
 
 I will continue updating this repository as I improve my Python skills daily 🚀
 
