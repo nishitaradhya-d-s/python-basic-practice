@@ -1,0 +1,13 @@
+#Sum of Natural Numbers
+  
+num=int(input("enter a num: "))
+sum=0
+for i in range(1,num+1):
+     sum=sum+i
+print("sum=", sum)
+
+#count how many digits are there in a input
+a=input("enter a number: ")
+print(len(a))
+
+num=int(input("enter a num: "))
